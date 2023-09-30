@@ -7,7 +7,16 @@ The IBM Data Science Professional Certification consists of 10 online courses th
 The Applied Data Science Capstone project involves making predictions related to successful rocket landing of a fictional company 'Falcon X'. The project uses the real-time Space X dataset to make predictions. 
 ## Files
 This repostory contains the following files:
-1. 
+1. Data Collection API.ipynb
+2. 4.3_Plotly_Basics.ipynb
+3. Data Collection With Web Scrapping.ipynb
+4. EDA with Data Visualization.ipynb
+5. EDA with SQL.ipynb
+6. EDA.ipynb
+7. Final_Assignment.ipynb
+8. Interactive Visual Analytics with Folium lab.ipynb
+9. Python Project for Data Science.ipynb
+10. firstpython.py
 ## Tools
 The following libraries and packages were used to complete the project:
 1. Pandas

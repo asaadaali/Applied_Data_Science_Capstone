@@ -15,8 +15,8 @@ The following libraries and packages were used to complete the project:
 6. Plotly
 7. Folium
 ## Badge
-![data-![applied-data-science-capstone 1 (1)](https://github.com/asaadaali/testrep/assets/111152382/d20351b8-018e-45bf-92dc-d45d23ddb23c)
-science-professional-certificate-v2 (1)](https://github.com/asaadaali/testrep/assets/111152382/dfae607e-a1eb-4f15-84a0-9a757d8fab90)
+![applied-data-science-capstone 1](https://github.com/asaadaali/testrep/assets/111152382/7759d229-0c68-4fcf-b5e9-29901cbd9a1c)
+![data-science-professional-certificate-v2 (2)](https://github.com/asaadaali/testrep/assets/111152382/32e39804-d5e9-4c05-9029-533f31366f5c)
 
 ## Licenses and Acknowledgments
 All resources used in the developement of this project were provided by Coursera IBM Skills Network.

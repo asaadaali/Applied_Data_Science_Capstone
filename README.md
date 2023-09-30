@@ -1,9 +1,9 @@
 # IBM Data Science Professional Certificate
-## IBM Data Science Capstone Project
-This repostory contains files related to the Capstone Project of the IBM Data Science Professional Certificate.
+## Applied Data Science Capstone Project
+This repostory contains files related to the Applied Data Science Capstone Project of the IBM Data Science Professional Certificate.
 ## About
 The IBM Data Science Professional Certification consists of 10 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms.
-The Capstone project involves making predictions related to successful rocket landing.
+The Applied Data Science Capstone project involves making predictions related to successful rocket landing of a fictional company 'Falcon X'. The project uses the real-time Space X dataset to make predictions. 
 ## Tools
 The following libraries and packages were used to complete the project:
 1. Pandas

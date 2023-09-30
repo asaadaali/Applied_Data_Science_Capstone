@@ -5,6 +5,9 @@ This repostory contains files related to the Applied Data Science Capstone Proje
 The IBM Data Science Professional Certification consists of 10 online courses that provide the tools and skills to succeed in data science, including use of open source tools and libraries, Python, databases, SQL, data visualization, data analysis, statistical analysis, predictive modeling, and machine learning algorithms.
 
 The Applied Data Science Capstone project involves making predictions related to successful rocket landing of a fictional company 'Falcon X'. The project uses the real-time Space X dataset to make predictions. 
+## Files
+This repostory contains the following files:
+1. 
 ## Tools
 The following libraries and packages were used to complete the project:
 1. Pandas

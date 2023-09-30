@@ -1,3 +1,3 @@
 # IBM Data Science Professional Certificate
-## Editing the file
-Its a markdown file in this respository.
+## First Repository
+This repostory contains files related to IBM Data Science Professional Certificate.

@@ -14,6 +14,6 @@ The following libraries and packages were used to complete the project:
 6. Plotly
 7. Folium
 ## Badge
-![data-science-professional-certificate-v2](https://github.com/asaadaali/testrep/assets/111152382/aa480dc9-6142-4e06-aa3d-b9c0e1e5fbc3)
+![data-science-professional-certificate-v2 (1)](https://github.com/asaadaali/testrep/assets/111152382/dfae607e-a1eb-4f15-84a0-9a757d8fab90)
 ## Licenses and Acknowledgments
 All resources used in the developement of this project were provided by Coursera IBM Skills Network.
